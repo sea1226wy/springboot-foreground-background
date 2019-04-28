@@ -1,0 +1,17 @@
+1.使用Jmter测试工具测试性能
+
+QPS:每秒查询数
+TPS:每秒失误数
+RT:运行时间
+
+2.SpringBoot拦截器和servlet3.0自定义Filter、Listener
+    场景：权限控制、用户登陆等
+
+3.SpringBoot Starter
+    Starter主要简化依赖用的
+    spring-boot-starter-web   -- 》里面包含多种依赖
+
+4.三种模板引擎
+    1）jsp
+    2)freemarker
+    3)thymeleaf
